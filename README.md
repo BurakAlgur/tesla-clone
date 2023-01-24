@@ -2,7 +2,7 @@
 Tesla clone app for educational purposes.
 ***React Native***
 
-##For Installation
+## For Installation
 ```
 npm install
 ```
