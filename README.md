@@ -1,6 +1,5 @@
 # tesla-clone
-Tesla clone app for educational purposes.
-***React Native***
+Tesla clone app for educational purposes made with ***React Native*** .
 
 ## For Installation
 ```
